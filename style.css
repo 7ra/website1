@@ -16,7 +16,7 @@
 /*Styles*/
 body {
 	height: 800px;
-	background: #99AAB5;
+	background: #2C2F33;
 	font-family: 'Montserrat', sans-serif;
 }
 
@@ -25,7 +25,7 @@ body {
 	position: fixed;
 	top: 0px;
 	width: 100%;
-	background: #23272A;
+	background: #2C2F33;
 	padding: 15px 0;
 	z-index: 10;
 }
@@ -82,7 +82,7 @@ body {
     position: relative;
     margin: 0px 85px 0px 85px;
     padding: 25px 30px;
-    background: #7289DA;
+    background: #FF0000;
     border-radius: 5px;
     line-height: 20px;
     text-transform: uppercase;
@@ -101,7 +101,7 @@ body {
 
 /*Sobre*/
 .about {
-	background: #23272A;
+	background: #2C2F33;
 	
 }
 
@@ -118,13 +118,13 @@ body {
 	display: block;
 	width: 60px;
 	height: 3px;
-	background: #7289DA;
+	background: #FF0000;
 	margin: 15px auto 10px auto;
 }
 
 .about_content .txt {
 	font-size: 17px;
-	color: #d2d8ea;
+	color: #FF69B4;
 	line-height: 27px;
 	margin: 0;
 	padding: 30px 120px 78px;
@@ -134,7 +134,7 @@ body {
 
 .func {
 	height: 500px; /* testando o comprimento */
-	background: #23272A;
+	background: #2C2F33;
 }
 
 .func .func_title {
@@ -155,7 +155,7 @@ body {
 	display: block;
 	width: 60px;
 	height: 3px;
-	background: #7289DA;
+	background: #FF0000;
 	margin: 15px auto 15px auto;
 }
 
@@ -176,7 +176,7 @@ body {
 .func_subtitle p {
 	position: relative;
 	padding: 5px 30px;
-	color: #C9D8D2;
+	color: #FF69B4;
 }
 
 .left img {
@@ -207,7 +207,7 @@ body {
 	display: block;
 	width: 60px;
 	height: 3px;
-	background: #7289DA;
+	background: #FF0000;
 	margin: 15px auto 15px auto;
 }
 
